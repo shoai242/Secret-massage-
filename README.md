@@ -8,7 +8,8 @@
             font-family: Arial, sans-serif;
             text-align: center;
             margin-top: 100px;
-            background-color: #f5f5f5;
+            background-color: #f5f5
+                f5f5;
         }
 
         h2 {
